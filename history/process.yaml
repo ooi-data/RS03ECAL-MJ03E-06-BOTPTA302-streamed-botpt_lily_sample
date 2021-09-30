@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/RS03ECAL-MJ03E-06-BOTPTA302-streamed-botpt_lily_sample
 data_stream: RS03ECAL-MJ03E-06-BOTPTA302-streamed-botpt_lily_sample
 end_date: '2021-09-29T18:41:50.000Z'
-last_updated: '2021-09-30T05:53:18.200060Z'
+last_updated: '2021-09-30T10:34:45.270182'
 start_date: '2014-09-03T21:00:01.000Z'
-status: pending
+status: success
